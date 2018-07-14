@@ -1,9 +1,9 @@
 
 # 快速安装 by devinnzhang
-homebrew 安装应用
-alfred 快速搜索
-iterm2 终端显示
-dash 文档集合
+homebrew 安装应用  
+alfred 快速搜索  
+iterm2 终端显示  
+dash 文档集合  
 justFocus ♨️
 
 ------------------------------
