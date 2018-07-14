@@ -1,3 +1,12 @@
+
+# 快速安装 by devinnzhang
+homebrew 安装应用
+alfred 快速搜索
+iterm2 终端显示
+dash 文档集合
+justFocus ♨️
+
+------------------------------
 # Awesome Mac
 
 [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/ico/awesome.svg)](https://github.com/sindresorhus/awesome) [![jaywcjlove/sb](https://jaywcjlove.github.io/sb/lang/chinese.svg)](README-zh.md) [![Gitter](https://jaywcjlove.github.io/sb/ico/gitter.svg)](https://gitter.im/awesome-mac/en?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=body_badge)
